@@ -10,6 +10,12 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!").padding()
+        //code
+//        code coe
+//        dyld_kernel_image_infoaslkdfj
+//        aksdfj
+//        alksjdf
+//        alksdf
     }
 }
 
